@@ -2,10 +2,10 @@
 
 Antes de tudo, clone o projeto na sua máquina, com:
 ```bash
-git clone 
+git clone https://github.com/CJosueAK47/sistema_controle_vendas.git
 ```
 
-Primeiro, crie um ambiente virtual. 
+Crie um ambiente virtual. 
 Com seu ambiente virtual configurado, instale as dependências do projeto com:
 
 ```bash
