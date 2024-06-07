@@ -1,5 +1,10 @@
 ## Instalação
 
+Antes de tudo, clone o projeto na sua máquina, com:
+```bash
+git clone 
+```
+
 Primeiro, crie um ambiente virtual. 
 Com seu ambiente virtual configurado, instale as dependências do projeto com:
 
