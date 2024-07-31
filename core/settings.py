@@ -9,7 +9,7 @@ SECRET_KEY = 'django-insecure-)@fe43j)6x0($8_b3-=e-gnyo#fl144eb@kgzf6k2_n^*cz)_v
 # Modo Debug
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 # Apps instalados
 INSTALLED_APPS = [
@@ -77,7 +77,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # i18n
 LANGUAGE_CODE = 'pt-BR'
-TIME_ZONE = 'America/Sao_Luis'
+TIME_ZONE = 'America/Fortaleza'
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
